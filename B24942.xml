@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Most Sacred Majesty, King James II. To all his loving subjects in the Kingdom of England.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24942</idno><idno type="EEBO-CITATION">99886045_194152</idno>
+  <idno type="VID">194152</idno>
+  <idno type="EEBO-PROQUEST">2264215411</idno>
+  
+            <idno type="STC">Wing J165</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[72]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[349]</idno>
+            <idno type="STC">ESTC R225328</idno>
+            <idno type="STC">ESTC R1471</idno>
+            <idno type="STC">ESTC R225328</idno>
+            <idno type="PROQUEST">ocm99886045</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886045e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194152)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[73]; C29:2[350])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Most Sacred Majesty, King James II. To all his loving subjects in the Kingdom of England.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>States that his aim is to give equal rights to all, whether Protestant or Roman Catholic. Offers pardon to those returning to his allegiance upon his re-entry into England.</note>
+                  <note>At end of text: Given at our court, in Dublin-Castle, the eighth of May, 1689. in the fifth year of our reign.</note>
+                  <note>Arms 110a; Steele notation: Enemies Ground 2) secured desire.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Pardon --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:194152:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms, circa 1689</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV E<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> MON DROIT</p>
+               </figure>
+            </head>
+            <head>A DECLARATION Of His Most Sacred Majesty, King James II. To all His Loving SUBJECTS IN THE KINGDOM of ENGLAND.</head>
+            <opener>
+               <signed>
+                  <hi>JAMES</hi> R.</signed>
+            </opener>
+            <p>ALthough the many Calumnies and dismal Stories, by which Our Enemies have endeavour'd to render Us and Our Government Odious to the World do now appear to have been advanced by them, not only without any Ground, but aganst their own certain Knowledge; as is evident by their not daring to attempt the proving these Charges to the World, which We cannot but hope hath open'd the Eyes of Our good Subjects, to see how they have been imposed upon by designing Men; who, to promote their own Ambitious Ends, care not what <hi>Slavery</hi> they reduce Our Kingdoms to: Yet, We cannot but rejoyce, that We have had an Opportunity to demonstrate the Falsness and Malice of their Pretences, since Our Arrival in this Our Kingdom of <hi>Ireland;</hi> by making it Our chief Concern to satisfy the Minds of Our Protestant Subjects: The Defence of their Religion, Priviledges and Pro<g ref="char:EOLhyphen"/>perties, is equally Our Care with the recovery of Our Rights. To this end, We have preferred such of them, of whose Loyalty and Affection We are satisfied, to Places both of the highest Honor and Trust about Our Person, as well as in Our Army. We have, by granting Our Royal Protection to such whose Minds were shaken by the
+<pb facs="tcp:194152:2"/> Arts of Our <hi>Rebellious Subjects,</hi> dispell'd their Apprehensions, and effectually secured them against the Attempts, even of their private Enemies. Our Ear hath been always open to their Just Complaints; And so far hath Our Royal Mercy been extended, to those who were in Arms against Us, that We have actually Pardoned several Hundreds of them; and most <hi>Notorious Criminals</hi> are kept in an easie Confinement (as they them<g ref="char:EOLhyphen"/>selves acknowledge.)</p>
+            <p>We have taken Care that Our Subjects of the Church of <hi>England</hi> be not disturbed in the Exercise of their Religion, the Possession of their Benefices and other Proper<g ref="char:EOLhyphen"/>ties; and all Protestant Dissenters enjoy Liberty of their Conscienes, without any molesttation. And out of Our Royal Care for the Prosperity of Our People, We have recommended to <hi>Our Parliament,</hi> as the First Thing necessary to be dispatched, to settle such a Security and Liberty, both in Spiritual and Temporal Matters, as may put an End to these Divisions, which have been the Source of all Our Miseries; Being resolved, as much as in Us lyes, to entail Liberty and Happiness upon Our People so far, as to put it out of the Power of Our Successors to Invade the one, or Infringe the other. And this, We take God to Witness, was always Our design; of which We see Our good Subjects here are more and more convinced, by the great Numbers of those, who having been Seduced, or Frightned, by the restless Importunities of Our Enemies, are returned to their Country and Habitations; and who assure Us, daily more would fol<g ref="char:EOLhyphen"/>low, if the <hi>Ports</hi> were open: But the <hi>Vsurpers</hi> know too well the sincerity of Our Intentions; to permit a free Passage of Our said Subjects; fearing nothing more than that their Experience should undeceive the rest, who are restrained more through Ig<g ref="char:EOLhyphen"/>norance than any ill Intention: And therefore deny them that Liberty which We afford to all, whose designs We are satisfied tend not to the disturbance of the Peace.</p>
+            <p>By this Our Gracious and Royal Care of Our Protestant Subjects here, (where the greatest part of Our Nation is Catholick) and have, as well as We, received the highest provocation from their Fellow-Subjects of contrary Persuasions: So that nothing, but Our Own inclination to Justice, and desire to see Our People Flourish, could move Us to such a Proceeding. We hope Our Subjects in <hi>England</hi> will make a Judgment of what they may expect from Us: And We do hereby promise and declare, That nothing shall ever alter Our Resolutions to pursue such, and no other Methods, as by Our said Subjects in Parliament shall be found proper for Our common Security, Peace and Happiness. And that none may be debarr'd of assisting Us in recovering of Our Rights, and redeeming Our People from their present Slavery, out of any apprehension from past Miscarriages; We do hereby assure all Our Subjects, of what Quality soever, let theirt Crimes against Us be never so great; That if in Twenty Days after Our appear<g ref="char:EOLhyphen"/>ing in Person in Our Kingdom of <hi>England,</hi> they return to their Obedience, by desert<g ref="char:EOLhyphen"/>ing Our Enemies and joyning with Us, We will grant them Our full Pardon, and all past Miscarriages shall be forgot: So little do We delight in the Blood or Ruin of Our People. But if after this Our Gracious condescension, they shall yet continue to assist Our Enemies and Rebels, We do before God charge all the Blood which shall be af<g ref="char:EOLhyphen"/>terward shed, upon Them and their Adherents. And, We doubt not, by the Blessing of God upon Our Arms, to force the most Obstinate to their Duty: Though, as We have made appear in reducing Our Rebellious Subjects in this Kingdom, We desire to use no other than <hi>Lenity</hi> and <hi>Mercy.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court, in</hi> Dublin-Castle, <date>
+                     <hi>the Eighth of</hi> May, 1689. <hi>in the Fifth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <hi>God save the King.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
